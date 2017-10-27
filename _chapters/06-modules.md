@@ -8,7 +8,7 @@ description: Learn the differences between modules and components and how to ide
 
 ## What's a module?
 
-A module is a distinct, independent unit, that can be combined with other modules to form a more complex structure.
+As mentioned in the introduction, a module is a distinct, independent unit, that can be combined with other modules to form a more complex structure.
 
 In a living room, we can consider the TV, the sofa and the wall art modules. All coming together to create a useable room.
 
